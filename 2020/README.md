@@ -1,0 +1,31 @@
+# Advent Of Code 2020
+
+[https://adventofcode.com/](https://adventofcode.com/ "https://adventofcode.com/")
+
+
+### Puzzles
+- [Day 1: Report Repair](https://adventofcode.com/2020/day/1 "Day 1: Report Repair") 
+- [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2 "Day 2: Password Philosophy")
+- [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3 "Day 3: Toboggan Trajectory")
+- [Day 4: Passport Processing](https://adventofcode.com/2020/day/4 "Day 4: Passport Processing")
+- [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5 "Day 5: Binary Boarding")
+- [Day 6: Custom Customs](https://adventofcode.com/2020/day/6 "Day 6: Custom Customs")
+- [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7 "Day 7: Handy Haversacks")
+- [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8 "Day 8: Handheld Halting")
+- [Day 9: Encoding Error](https://adventofcode.com/2020/day/9 "Day 9: Encoding Error")
+- [Day 10: Adapter Array](https://adventofcode.com/2020/day/10 "Day 10: Adapter Array")
+- [Day 11: Seating System](https://adventofcode.com/2020/day/11 "Day 11: Seating System")
+- [Day 12: Rain Risk](https://adventofcode.com/2020/day/12 "Day 12: Rain Risk")
+- [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13 "Day 13: Shuttle Search")
+- [Day 14: Docking Data](https://adventofcode.com/2020/day/14 "Day 14: Docking Data")
+- [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15 "Day 15: Rambunctious Recitation")
+- [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16 "Day 16: Ticket Translation")
+- [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17 "Day 17: Conway Cubes")
+- [Day 18: Operation Order](https://adventofcode.com/2020/day/18 "Day 18: Operation Order")
+- [Day 19: Monster Messages](https://adventofcode.com/2020/day/19 "Day 19: Monster Messages")
+- [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20 "Day 20: Jurassic Jigsaw")
+- [Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21 "Day 21: Allergen Assessment")
+- [Day 22: Crab Combat](https://adventofcode.com/2020/day/22 "Day 22: Crab Combat")
+- [Day 23: Crab Cups](https://adventofcode.com/2020/day/23 "Day 23: Crab Cups")
+- [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24 "Day 24: Lobby Layout")
+- [Day 25: Combo Breaker](https://adventofcode.com/2020/day/25 "Day 25: Combo Breaker")
